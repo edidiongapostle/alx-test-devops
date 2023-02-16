@@ -1,0 +1,3 @@
+#!/bin/bash
+Who are my friends
+What do we do for each other?
